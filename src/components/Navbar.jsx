@@ -49,7 +49,7 @@ const Navbar = () => {
                 transition={{ duration: 2, repeat: Infinity }}
               />
             </div>
-            <span className="text-xl font-bold gradient-text">Coadies.in</span>
+            <span className="text-xl font-bold gradient-text">Pranav</span>
           </Link>
 
           {/* Desktop Navigation */}
